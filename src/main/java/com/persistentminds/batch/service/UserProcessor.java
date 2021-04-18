@@ -1,8 +1,8 @@
-package com.verdeinfotech.batch.service;
+package com.persistentminds.batch.service;
 
-import com.verdeinfotech.batch.model.ReadUser;
-import com.verdeinfotech.batch.model.User;
-import com.verdeinfotech.batch.model.WriteUser;
+import com.persistentminds.batch.model.ReadUser;
+import com.persistentminds.batch.model.User;
+import com.persistentminds.batch.model.WriteUser;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.item.ItemProcessor;

@@ -1,7 +1,7 @@
-package com.verdeinfotech.batch;
+package com.persistentminds.batch;
 
 
-import com.verdeinfotech.batch.config.CSVToCSVConfig;
+import com.persistentminds.batch.config.CSVToCSVConfig;
 import org.junit.Test;
 import org.springframework.batch.item.file.FlatFileItemReader;
 import org.springframework.batch.item.file.mapping.DefaultLineMapper;

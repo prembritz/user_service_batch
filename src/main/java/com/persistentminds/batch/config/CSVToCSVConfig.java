@@ -1,9 +1,9 @@
-package com.verdeinfotech.batch.config;
+package com.persistentminds.batch.config;
 
-import com.verdeinfotech.batch.model.ReadUser;
-import com.verdeinfotech.batch.model.WriteUser;
-import com.verdeinfotech.batch.service.StringHeaderWriter;
-import com.verdeinfotech.batch.service.UserProcessor;
+import com.persistentminds.batch.model.ReadUser;
+import com.persistentminds.batch.model.WriteUser;
+import com.persistentminds.batch.service.StringHeaderWriter;
+import com.persistentminds.batch.service.UserProcessor;
 import org.apache.commons.lang3.ArrayUtils;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;

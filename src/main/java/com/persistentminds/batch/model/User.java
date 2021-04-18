@@ -1,4 +1,4 @@
-package com.verdeinfotech.batch.model;
+package com.persistentminds.batch.model;
 
 
 import lombok.AllArgsConstructor;
